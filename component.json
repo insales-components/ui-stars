@@ -1,0 +1,13 @@
+{
+  "name": "UI-stars",
+  "version": "1.0.0",
+  "description": "Стили звездочек в рейтинге",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/ui-stars",
+  "props": {
+    "common": false,
+    "liquid": false
+  },
+  "dependencies": {}
+}
